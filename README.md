@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeinabsayyadi
 - 👀 I’m interested in software engineering and web application developing
-- 🌱 I’m currently learning vanilla java script
+- 🌱 I’m currently learning node js and express 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
