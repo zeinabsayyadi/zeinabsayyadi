@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+dev%2C+front-end+at+heart;4%2B+years+turning+messy+data+into+clean+UI;Monorepo+architect;Currently+deep+in+NestJS" alt="Typing SVG" />
 </div>
 
-### 🧠 whoami
+### 👩‍💻 whoami
 
 I take complex, data-heavy systems — the kind with ten entity types and a thousand edge cases — and make them feel simple to use. Four years doing that for enterprise and e-commerce products, mostly living in the front end: interactive graphs, 3D viewers, real-time dashboards, the stuff that's easy to get wrong.
 
@@ -98,7 +98,7 @@ What excites me: systems where the architecture decision *is* the hard part — 
 
 ---
 
-### 📡 Contact
+### 💬 Contact
 
 <p>
   <a href="https://linkedin.com/in/zeinab-sayyadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
